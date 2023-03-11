@@ -1,4 +1,13 @@
-
+.whole{
+    background-color:black;
+}
+.text-center
+{
+    color: white;
+}
+.col-lg-8{
+    color: white;
+}
 .navbarScroll.navbarDark {
     background-color: black;
 }
@@ -23,8 +32,9 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color:bisque;
 }
+
 
 #contact {
     padding-bottom: 4rem;
@@ -66,6 +76,7 @@
     text-align: center;
 }
 .skills{
+    color: white;
     align-content: center;
     margin-left: 150px;
 }
@@ -139,7 +150,7 @@
     width: 60%;
 }
 .max-width{
-    border:5px solid white;
+    border:5px solid black;
     width: 700px;
-    padding: 20px;
+    /* padding: 20px; */
 }
