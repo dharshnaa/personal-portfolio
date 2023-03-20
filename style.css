@@ -4,6 +4,7 @@
 .text-center
 {
     color: white;
+    text-align: center;
 }
 .col-lg-8{
     color: white;
@@ -135,6 +136,7 @@
     background: crimson;
 }
 .skills-content .right .C::before{
+    border: 200px;
     width: 70%;
 }
 .skills-content .right .cp::before{
@@ -153,4 +155,20 @@
     border:5px solid black;
     width: 700px;
     /* padding: 20px; */
+}
+.col-lg-6{
+        margin:auto;
+        margin-left: 320px;
+        width: 70%;
+        border: 3px solid black;
+        text-align: center;
+        padding: 10px;
+}
+.title{
+    margin:auto;
+    margin-left: 100px;
+    width: 70%;
+    border: 3px solid black;
+    text-align: center;
+    padding: 10px;
 }
